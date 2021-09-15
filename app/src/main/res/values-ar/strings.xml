@@ -3,4 +3,5 @@
     <string name="password">كلمة السر</string>
     <string name="name">أسم</string>
     <string name="app_name">تطبيقي</string>
+    <string name="email">ايميل</string>
 </resources>
